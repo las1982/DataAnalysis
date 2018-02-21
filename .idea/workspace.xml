@@ -1,0 +1,1368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a49c0c0c-2363-407a-8a4c-22cdc479882c" name="Default" comment="just commit">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/DataAnalysis.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/001111001578_1.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10_minutes_to_pandas/DrawCategorical.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10_minutes_to_pandas/foo.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/10_minutes_to_pandas/main.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/Module+1.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/Module+2.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/Module+2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/Module+3.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/.ipynb_checkpoints/Assignment 1-checkpoint.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/.ipynb_checkpoints/Assignment 2-checkpoint.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/.ipynb_checkpoints/Assignment 3-checkpoint.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/.ipynb_checkpoints/Classifier Visualization-checkpoint.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/Assignment 1.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/Assignment 2.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/Assignment 3.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/Assignment 4.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/Classifier Visualization.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/CommViolPredUnnormalizedData.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/Module 1.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/Module 2.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/Module 3.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/Module 4.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/Unsupervised Learning.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/addresses.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/adspy_shared_utilities.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/fraud_data.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/fruit_data_with_colors.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/latlons.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/mushrooms.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/polynomialreg1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/test.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/train.csv.zip" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Text Mining in Python/Case+Study+-+Sentiment+Analysis.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Text Mining in Python/downloads/.ipynb_checkpoints/Untitled-checkpoint.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Text Mining in Python/downloads/Amazon_Unlocked_Mobile.csv.zip" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Text Mining in Python/downloads/Assignment 1.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Text Mining in Python/downloads/Assignment 2.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Text Mining in Python/downloads/Assignment 3.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Text Mining in Python/downloads/Assignment 4.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Text Mining in Python/downloads/Case Study - Sentiment Analysis.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Text Mining in Python/downloads/Regex with Pandas and Named Groups.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Text Mining in Python/downloads/dates.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Text Mining in Python/downloads/moby.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Text Mining in Python/downloads/newsgroups" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Text Mining in Python/downloads/paraphrases.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Text Mining in Python/downloads/spam.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DocumentClustering/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DocumentClustering/document_clustering.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DocumentClustering/document_clustering.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Neural Networks and Deep Learning/part 1/week 1/Logistic+Regression+with+a+Neural+Network+mindset+v4.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Neural Networks and Deep Learning/part 1/week 1/Logistic+Regression+with+a+Neural+Network+mindset+v4.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Neural Networks and Deep Learning/part 1/week 1/Python+Basics+With+Numpy+v3.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Neural Networks and Deep Learning/part 1/week 1/lr_utils.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/VisualizingMultidimensionalData/.ipynb_checkpoints/run-checkpoint.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/VisualizingMultidimensionalData/plot_cluster_iris.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/VisualizingMultidimensionalData/run.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/VisualizingMultidimensionalData/run.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/VisualizingMultidimensionalData/run_1.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/VisualizingMultidimensionalData/run_nielsen.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/VisualizingMultidimensionalData/scatter3d_demo.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/foo.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/profitero_data_scientist/Enums.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/profitero_data_scientist/data.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/profitero_data_scientist/jd_reviews.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/profitero_data_scientist/product.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/profitero_data_scientist/review.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/profitero_data_scientist/test_data_scientist.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/profitero_data_scientist/test_task.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/profitero_data_scientist/translate.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/COPYING" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/appa.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/ch02.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/ch03.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/ch04.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/ch05.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/ch06.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/ch07.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/ch08.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/ch09.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/ch10.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/ch11.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/ch12.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/ch13.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/ch14.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/datasets.zip" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/array_ex.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/csv_mindex.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/ex1.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/ex1.xlsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/ex2.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/ex3.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/ex3.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/ex4.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/ex5.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/ex6.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/ex7.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/example.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/fdic_failed_bank_list.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/ipython_bug.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/macrodata.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/out.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/segismundo.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/spx.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/stinkbug.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/stock_px.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/stock_px_2.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/test_file.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/tips.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/tseries.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/volume.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/yahoo_price.pkl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/yahoo_volume.pkl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/111.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/1to1_feature_1.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/1to1_feature_2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/1to1_feature_3.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/Analysis.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/BE_BEER_model.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/Combinations.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/Data.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/DataSamplingSandbox.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/Enums.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/MakeCompare.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/MakeDataUC5.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/ModelRunner.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/Model_0.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/Model_1.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/Model_2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/Paths.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/PlotErrorsFinderStat.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/Runner.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/featureDist.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/test.json" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DataAnalysis" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DataSamplingSandbox.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wkf/DataSamplingSandbox.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="run.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VisualizingMultidimensionalData/run.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="51" column="6" lean-forward="false" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="run_1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VisualizingMultidimensionalData/run_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="855">
+              <caret line="57" column="24" lean-forward="false" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/profitero_data_scientist/data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="91" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="91" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="translate.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/profitero_data_scientist/translate.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="44" column="31" lean-forward="false" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+                <element signature="e#240#271#0" expanded="false" />
+                <element signature="e#306#538#0" expanded="false" />
+                <element signature="e#584#692#0" expanded="false" />
+                <element signature="e#735#908#0" expanded="false" />
+                <element signature="e#951#1148#0" expanded="false" />
+                <element signature="e#1292#1363#0" expanded="false" />
+                <element signature="e#1862#3800#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Enums.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/profitero_data_scientist/Enums.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Module+1.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Applied Machine Learning in Python/Module+1.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_task.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/profitero_data_scientist/test_task.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="8" lean-forward="false" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+                <element signature="e#3966#4487#0" expanded="false" />
+                <element signature="e#4522#4595#0" expanded="false" />
+                <element signature="e#4624#4964#0" expanded="false" />
+                <element signature="e#5014#5917#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Model_2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wkf/Model_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="24" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+                <element signature="e#2065#2247#0" expanded="false" />
+                <element signature="e#3966#4487#0" expanded="false" />
+                <element signature="e#4522#4595#0" expanded="false" />
+                <element signature="e#4624#4964#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>group</find>
+      <find>apply</find>
+      <find>sort</find>
+      <find>appe</find>
+      <find>zuckerred</find>
+      <find>i</find>
+      <find>item_de</find>
+      <find>= 0.497</find>
+      <find>≈</find>
+      <find>&quot;</find>
+      <find />
+      <find>print</find>
+      <find>\n</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>',\n</replace>
+      <replace>&quot;,\n</replace>
+      <replace>'</replace>
+      <replace>\t</replace>
+      <replace>print (</replace>
+      <replace>',\n'</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="alex &lt;aliaksandr_lashkov@epam.com&gt;" />
+      </list>
+    </option>
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="refactoring-custom-describe" />
+      </map>
+    </option>
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wkf/Combinations.py" />
+        <option value="$PROJECT_DIR$/10_minutes_to_pandas/test.py" />
+        <option value="$PROJECT_DIR$/wkf/1to1_feature.py" />
+        <option value="$PROJECT_DIR$/wkf/1to1_feature_2.py" />
+        <option value="$PROJECT_DIR$/wkf/Fields.py" />
+        <option value="$PROJECT_DIR$/wkf/AnalizeDataSet.py" />
+        <option value="$PROJECT_DIR$/wkf/test.py" />
+        <option value="$PROJECT_DIR$/Applied Text Mining in Python/Case+Study+-+Sentiment+Analysis.ipynb" />
+        <option value="$PROJECT_DIR$/wkf/BE_BEER_model.ipynb" />
+        <option value="$PROJECT_DIR$/wkf/Columns.py" />
+        <option value="$PROJECT_DIR$/wkf/BE_BEER_model.py" />
+        <option value="$PROJECT_DIR$/wkf/Files.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/pycharm64.vmoptions" />
+        <option value="$PROJECT_DIR$/wkf/enums/Enums.py" />
+        <option value="$PROJECT_DIR$/wkf/BE_BEER_model_combinations.py" />
+        <option value="$PROJECT_DIR$/wkf/model.py" />
+        <option value="$PROJECT_DIR$/wkf/ModelRunner.py" />
+        <option value="$PROJECT_DIR$/wkf/Model.py" />
+        <option value="$PROJECT_DIR$/wkf/Model_1.py" />
+        <option value="$PROJECT_DIR$/Neural Networks and Deep Learning/part 1/week 1/Python+Basics+With+Numpy+v3.ipynb" />
+        <option value="$PROJECT_DIR$/Neural Networks and Deep Learning/part 1/week 1/lr_utils.py" />
+        <option value="$PROJECT_DIR$/Neural Networks and Deep Learning/part 1/week 1/Logistic+Regression+with+a+Neural+Network+mindset+v4.py" />
+        <option value="$PROJECT_DIR$/Neural Networks and Deep Learning/part 1/week 1/Logistic+Regression+with+a+Neural+Network+mindset+v4.ipynb" />
+        <option value="$PROJECT_DIR$/DocumentClustering/document_clustering.ipynb" />
+        <option value="$PROJECT_DIR$/VisualizingMultidimensionalData/run.ipynb" />
+        <option value="$PROJECT_DIR$/wkf/test2.py" />
+        <option value="$PROJECT_DIR$/VisualizingMultidimensionalData/run_nielsen.ipynb" />
+        <option value="$PROJECT_DIR$/VisualizingMultidimensionalData/plot_cluster_iris.py" />
+        <option value="$PROJECT_DIR$/wkf/Analysis.py" />
+        <option value="$PROJECT_DIR$/../pydata-book/MyScripts/1.py" />
+        <option value="$PROJECT_DIR$/../pydata-book/ch04.ipynb" />
+        <option value="$PROJECT_DIR$/../pydata-book/ch05.ipynb" />
+        <option value="$PROJECT_DIR$/../pydata-book/MyScripts/1.ipynb" />
+        <option value="$PROJECT_DIR$/wkf/test1.py" />
+        <option value="$PROJECT_DIR$/wkf/PlotErrorsFinderStat.py" />
+        <option value="$PROJECT_DIR$/wkf/Runner.py" />
+        <option value="$PROJECT_DIR$/wkf/Enums.py" />
+        <option value="$PROJECT_DIR$/wkf/DataSamplingSandbox.py" />
+        <option value="$PROJECT_DIR$/wkf/MakeDataUC5.py" />
+        <option value="$PROJECT_DIR$/wkf/MakeCompare.py" />
+        <option value="$PROJECT_DIR$/VisualizingMultidimensionalData/run.py" />
+        <option value="$PROJECT_DIR$/VisualizingMultidimensionalData/run_1.py" />
+        <option value="$PROJECT_DIR$/wkf/Model_2.py" />
+        <option value="$PROJECT_DIR$/profitero/test_task.py" />
+        <option value="$PROJECT_DIR$/wkf/Data.py" />
+        <option value="$PROJECT_DIR$/profitero_data_scientist/data.py" />
+        <option value="$PROJECT_DIR$/profitero_data_scientist/product.csv" />
+        <option value="$PROJECT_DIR$/profitero_data_scientist/Fields.py" />
+        <option value="$PROJECT_DIR$/profitero_data_scientist/Enums.py" />
+        <option value="$PROJECT_DIR$/wkf/1to1_feature_3.py" />
+        <option value="$PROJECT_DIR$/profitero_data_scientist/translate.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="968" />
+    <option name="y" value="3" />
+    <option name="width" value="949" />
+    <option name="height" value="1049" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>RegExp</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DataAnalysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataAnalysis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataAnalysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataAnalysis" type="462c0819:PsiDirectoryNode" />
+              <item name="Applied Text Mining in Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataAnalysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataAnalysis" type="462c0819:PsiDirectoryNode" />
+              <item name="Applied Text Mining in Python" type="462c0819:PsiDirectoryNode" />
+              <item name="downloads" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataAnalysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataAnalysis" type="462c0819:PsiDirectoryNode" />
+              <item name="profitero_data_scientist" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/profitero/profitero_data_scientist" />
+      <recent name="$PROJECT_DIR$/DocumentClustering" />
+      <recent name="$PROJECT_DIR$/wkf" />
+      <recent name="$PROJECT_DIR$/Applied Text Mining in Python" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/profitero" />
+      <recent name="$PROJECT_DIR$/VisualizingMultidimensionalData" />
+      <recent name="$PROJECT_DIR$/DocumentClustering" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Neural Networks and Deep Learning/part 1/week 1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.translate">
+    <configuration name="BE_BEER_model_combinations" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wkf" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataAnalysis" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wkf/ModelRunner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="DataSamplingSandbox" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wkf" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataAnalysis" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wkf/DataSamplingSandbox.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Runner" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wkf" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataAnalysis" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wkf/Runner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="10minutesPandas" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="STANFORD_SEGMENTER" value="$USER_HOME$/Downloads/stanford-segmenter-2017-06-09" />
+        <env name="JAVA_HOME" value="$USER_HOME$/opt/java/jdk1.8.0_162" />
+        <env name="STANFORD_MODELS" value="$USER_HOME$/Downloads/stanford-segmenter-2017-06-09/data" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/profitero_data_scientist" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataAnalysis" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/profitero_data_scientist/data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wkf" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataAnalysis" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wkf/PlotErrorsFinderStat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="translate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/profitero_data_scientist" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataAnalysis" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/profitero_data_scientist/translate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="DataAnalysis" type="Python.Ipnb" factoryName="Jupyter Notebook">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda2/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Applied Machine Learning in Python" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataAnalysis" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+    </configuration>
+    <configuration default="true" type="Python.Ipnb" factoryName="Jupyter Notebook">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda2/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Applied Machine Learning in Python" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataAnalysis" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="10minutesPandas" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="10minutesPandas" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="10minutesPandas" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="10minutesPandas" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="10minutesPandas" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Jupyter Notebook.DataAnalysis" />
+      <item index="1" class="java.lang.String" itemvalue="Python.BE_BEER_model_combinations" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Runner" />
+      <item index="3" class="java.lang.String" itemvalue="Python.test1" />
+      <item index="4" class="java.lang.String" itemvalue="Python.DataSamplingSandbox" />
+      <item index="5" class="java.lang.String" itemvalue="Python.data" />
+      <item index="6" class="java.lang.String" itemvalue="Python.translate" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.translate" />
+        <item index="1" class="java.lang.String" itemvalue="Python.data" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test1" />
+        <item index="3" class="java.lang.String" itemvalue="Python.DataSamplingSandbox" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Runner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a49c0c0c-2363-407a-8a4c-22cdc479882c" name="Default" comment="" />
+      <created>1503092151819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1503092151819</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1503947518813</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1503947518813</updated>
+    </task>
+    <task id="LOCAL-00002" summary="custom describe fixed">
+      <created>1503951524628</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1503951524628</updated>
+    </task>
+    <task id="LOCAL-00003" summary="custom describe fixed&#10;&#10;(cherry picked from commit b85b382)">
+      <created>1503951675843</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1503951675843</updated>
+    </task>
+    <task id="LOCAL-00004" summary="just commit">
+      <created>1508422772395</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1508422772395</updated>
+    </task>
+    <task id="LOCAL-00005" summary="just commit">
+      <created>1519201487368</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1519201487368</updated>
+    </task>
+    <task id="LOCAL-00006" summary="just commit">
+      <created>1519205568595</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1519205568595</updated>
+    </task>
+    <task id="LOCAL-00007" summary="just commit">
+      <created>1519207639882</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1519207639882</updated>
+    </task>
+    <task id="LOCAL-00008" summary="just commit">
+      <created>1519207707185</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1519207707185</updated>
+    </task>
+    <task id="LOCAL-00009" summary="just commit">
+      <created>1519208408525</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1519208408525</updated>
+    </task>
+    <task id="LOCAL-00010" summary="just commit">
+      <created>1519208809482</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1519208809482</updated>
+    </task>
+    <task id="LOCAL-00011" summary="just commit">
+      <created>1519209561193</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1519209561193</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Nosetests_for_Data_test - 2017.11.13 at 15h 30m 11s.xml">
+      <configuration name="Nosetests for Data.test" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="968" y="3" width="1600" height="873" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2390615" sideWeight="0.49317738" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21676892" sideWeight="0.506937" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3275401" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.328877" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29411766" sideWeight="0.49306297" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24903475" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3265086" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26898327" sideWeight="0.5068226" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37886873" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" x="100" y="99" width="1720" height="853" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2497332" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3262548" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21676892" sideWeight="0.506937" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" x="100" y="99" width="1720" height="853" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977304" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29411766" sideWeight="0.49306297" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3265086" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2390615" sideWeight="0.49317738" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2497332" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3275401" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24903475" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26898327" sideWeight="0.5068226" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37886873" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3262548" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="custom describe fixed" />
+    <MESSAGE value="custom describe fixed&#10;&#10;(cherry picked from commit b85b382)" />
+    <MESSAGE value="just commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="just commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/wkf/1to1_feature_1.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/wkf/1to1_feature_2.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/wkf/ModelRunner.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/VisualizingMultidimensionalData/plot_cluster_iris.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/VisualizingMultidimensionalData/run.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/VisualizingMultidimensionalData/run_1.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/wkf/Data.py</url>
+          <line>132</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/wkf/Model_2.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/wkf/Model_2.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="208" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>os.environ.get('STANFORD_MODELS')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>os.environ.get('STANFORD_SEGMENTER')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>os.environ.get</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Neural Networks and Deep Learning/part 1/week 1/lr_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="47" lean-forward="false" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Neural Networks and Deep Learning/part 1/week 1/test_catvnoncat.h5" />
+    <entry file="file://$PROJECT_DIR$/Neural Networks and Deep Learning/part 1/week 1/Logistic+Regression+with+a+Neural+Network+mindset+v4.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Neural Networks and Deep Learning/part 1/week 1/Logistic+Regression+with+a+Neural+Network+mindset+v4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Applied Text Mining in Python/downloads/paraphrases.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Applied Text Mining in Python/downloads/dates.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="330" column="89" lean-forward="true" selection-start-line="330" selection-start-column="89" selection-end-line="330" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Applied Text Mining in Python/downloads/spam.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255">
+          <caret line="391" column="4" lean-forward="false" selection-start-line="391" selection-start-column="4" selection-end-line="391" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wkf/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda2/lib/python2.7/site-packages/pandas/io/parsers.py" />
+    <entry file="file://$USER_HOME$/anaconda2/lib/python2.7/site-packages/pandas/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/10_minutes_to_pandas/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VisualizingMultidimensionalData/run_nielsen.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VisualizingMultidimensionalData/run.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VisualizingMultidimensionalData/scatter3d_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VisualizingMultidimensionalData/plot_cluster_iris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="18" lean-forward="false" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wkf/test2.py" />
+    <entry file="file://$PROJECT_DIR$/../pydata-book/MyScripts/1.py" />
+    <entry file="file://$PROJECT_DIR$/../pydata-book/appa.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pydata-book/ch04.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pydata-book/ch05.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pydata-book/MyScripts/1.ipynb" />
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/pandas/io/parsers.py" />
+    <entry file="file://$PROJECT_DIR$/wkf/Paths.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wkf/test.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wkf/Analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="40" lean-forward="false" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wkf/Runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wkf/MakeDataUC5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wkf/MakeCompare.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="40" column="35" lean-forward="false" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wkf/PlotErrorsFinderStat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="39" lean-forward="false" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wkf/DataSamplingSandbox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wkf/Model_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="24" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+            <element signature="e#2065#2247#0" expanded="false" />
+            <element signature="e#3966#4487#0" expanded="false" />
+            <element signature="e#4522#4595#0" expanded="false" />
+            <element signature="e#4624#4964#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profitero_data_scientist/jd_reviews.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="330">
+          <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DocumentClustering/document_clustering.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="622">
+          <caret line="145" column="62" lean-forward="true" selection-start-line="145" selection-start-column="62" selection-end-line="145" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DocumentClustering/document_clustering.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Applied Machine Learning in Python/Module+3.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Applied Machine Learning in Python/Module+2.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VisualizingMultidimensionalData/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="6" lean-forward="false" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Applied Machine Learning in Python/Module+1.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VisualizingMultidimensionalData/run_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" column="24" lean-forward="false" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3/dist-packages/apport_python_hook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/nltk/tokenize/stanford_segmenter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="106" column="31" lean-forward="false" selection-start-line="106" selection-start-column="31" selection-end-line="106" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/sklearn/feature_extraction/text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="265" column="0" lean-forward="false" selection-start-line="265" selection-start-column="0" selection-end-line="265" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profitero_data_scientist/product.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profitero_data_scientist/test_task.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="8" lean-forward="false" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+            <element signature="e#3966#4487#0" expanded="false" />
+            <element signature="e#4522#4595#0" expanded="false" />
+            <element signature="e#4624#4964#0" expanded="false" />
+            <element signature="e#5014#5917#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wkf/Enums.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" lean-forward="true" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profitero_data_scientist/Enums.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001111001578_1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profitero_data_scientist/data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="91" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="91" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wkf/Data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="107" column="81" lean-forward="true" selection-start-line="107" selection-start-column="8" selection-end-line="107" selection-end-column="81" />
+          <folding>
+            <element signature="e#1209#1291#0" expanded="false" />
+            <element signature="e#1346#2301#0" expanded="false" />
+            <element signature="e#2348#2620#0" expanded="false" />
+            <element signature="e#2670#2859#0" expanded="false" />
+            <element signature="e#2910#3101#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wkf/1to1_feature_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="28" column="4" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#19#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profitero_data_scientist/translate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="44" column="31" lean-forward="false" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+            <element signature="e#240#271#0" expanded="false" />
+            <element signature="e#306#538#0" expanded="false" />
+            <element signature="e#584#692#0" expanded="false" />
+            <element signature="e#735#908#0" expanded="false" />
+            <element signature="e#951#1148#0" expanded="false" />
+            <element signature="e#1292#1363#0" expanded="false" />
+            <element signature="e#1862#3800#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
