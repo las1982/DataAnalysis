@@ -1,147 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a49c0c0c-2363-407a-8a4c-22cdc479882c" name="Default" comment="just commit">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/DataAnalysis.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/001111001578_1.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_minutes_to_pandas/DrawCategorical.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_minutes_to_pandas/foo.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_minutes_to_pandas/main.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/Module+1.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/Module+2.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/Module+2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/Module+3.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/.ipynb_checkpoints/Assignment 1-checkpoint.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/.ipynb_checkpoints/Assignment 2-checkpoint.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/.ipynb_checkpoints/Assignment 3-checkpoint.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/.ipynb_checkpoints/Classifier Visualization-checkpoint.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/Assignment 1.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/Assignment 2.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/Assignment 3.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/Assignment 4.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/Classifier Visualization.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/CommViolPredUnnormalizedData.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/Module 1.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/Module 2.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/Module 3.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/Module 4.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/Unsupervised Learning.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/addresses.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/adspy_shared_utilities.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/fraud_data.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/fruit_data_with_colors.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/latlons.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/mushrooms.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/polynomialreg1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/test.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Machine Learning in Python/downloads/train.csv.zip" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Text Mining in Python/Case+Study+-+Sentiment+Analysis.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Text Mining in Python/downloads/.ipynb_checkpoints/Untitled-checkpoint.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Text Mining in Python/downloads/Amazon_Unlocked_Mobile.csv.zip" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Text Mining in Python/downloads/Assignment 1.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Text Mining in Python/downloads/Assignment 2.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Text Mining in Python/downloads/Assignment 3.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Text Mining in Python/downloads/Assignment 4.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Text Mining in Python/downloads/Case Study - Sentiment Analysis.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Text Mining in Python/downloads/Regex with Pandas and Named Groups.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Text Mining in Python/downloads/dates.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Text Mining in Python/downloads/moby.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Text Mining in Python/downloads/newsgroups" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Text Mining in Python/downloads/paraphrases.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Applied Text Mining in Python/downloads/spam.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/DocumentClustering/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/DocumentClustering/document_clustering.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/DocumentClustering/document_clustering.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Neural Networks and Deep Learning/part 1/week 1/Logistic+Regression+with+a+Neural+Network+mindset+v4.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Neural Networks and Deep Learning/part 1/week 1/Logistic+Regression+with+a+Neural+Network+mindset+v4.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Neural Networks and Deep Learning/part 1/week 1/Python+Basics+With+Numpy+v3.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Neural Networks and Deep Learning/part 1/week 1/lr_utils.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/VisualizingMultidimensionalData/.ipynb_checkpoints/run-checkpoint.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/VisualizingMultidimensionalData/plot_cluster_iris.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/VisualizingMultidimensionalData/run.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/VisualizingMultidimensionalData/run.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/VisualizingMultidimensionalData/run_1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/VisualizingMultidimensionalData/run_nielsen.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/VisualizingMultidimensionalData/scatter3d_demo.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/foo.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/profitero_data_scientist/Enums.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/profitero_data_scientist/data.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/profitero_data_scientist/jd_reviews.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/profitero_data_scientist/product.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/profitero_data_scientist/review.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/profitero_data_scientist/test_data_scientist.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/profitero_data_scientist/test_task.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/profitero_data_scientist/translate.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/COPYING" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/appa.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/ch02.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/ch03.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/ch04.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/ch05.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/ch06.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/ch07.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/ch08.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/ch09.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/ch10.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/ch11.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/ch12.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/ch13.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/ch14.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/datasets.zip" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/array_ex.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/csv_mindex.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/ex1.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/ex1.xlsx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/ex2.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/ex3.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/ex3.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/ex4.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/ex5.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/ex6.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/ex7.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/example.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/fdic_failed_bank_list.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/ipython_bug.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/macrodata.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/out.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/segismundo.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/spx.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/stinkbug.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/stock_px.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/stock_px_2.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/test_file.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/tips.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/tseries.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/volume.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/yahoo_price.pkl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pydata-book-2nd-edition/examples/yahoo_volume.pkl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/111.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/1to1_feature_1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/1to1_feature_2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/1to1_feature_3.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/Analysis.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/BE_BEER_model.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/Combinations.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/Data.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/DataSamplingSandbox.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/Enums.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/MakeCompare.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/MakeDataUC5.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/ModelRunner.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/Model_0.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/Model_1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/Model_2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/Paths.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/PlotErrorsFinderStat.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/Runner.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/featureDist.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/wkf/test.json" />
+    <list default="true" id="a49c0c0c-2363-407a-8a4c-22cdc479882c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -822,7 +683,14 @@
       <option name="project" value="LOCAL" />
       <updated>1519209561193</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="just commit">
+      <created>1519211016889</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1519211016889</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
