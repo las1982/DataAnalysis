@@ -11,7 +11,7 @@ class Analysis:
         # self.skipped_cols = list(self.data.cols_in_datasets_but_not_in_metadata)
 
     def describe(self, top):
-        print 'constructing describe...'
+        print('constructing describe...')
         descr = None
         for col in self.df.columns:
             groups = self.df[col].drop_duplicates()
@@ -37,7 +37,7 @@ class Analysis:
             else:
                 descr = descr.append(df_row, ignore_index=True)
             descr = descr.sort_values(by='unique', ascending=True)  # TODO sorting does not work
-        print 'constructed data frame', descr.shape
+        print('constructed data frame', descr.shape)
         return descr
 
     def make_hyperlink(self, cols):
@@ -47,7 +47,7 @@ class Analysis:
                 colss.append('=HYPERLINK("#ch_' + str(self.df.columns.get_loc(cols[i])) + '", "' + cols[i] + '")')
             else:
                 colss.append('!!! ' + cols[i] + ' is not in the data set!!!')
-                print '!!! ' + cols[i] + ' is not in the data set!!!'
+                print('!!! ' + cols[i] + ' is not in the data set!!!')
         return colss
 
     def browsable_describe(self):
@@ -90,7 +90,7 @@ class Analysis:
 
     def make_browsable_analysis(self, output_analysis_file):
 
-        print 'constructing analysis file...'
+        print('constructing analysis file...')
         writer = pd.ExcelWriter(output_analysis_file, engine='xlsxwriter')
         workbook = writer.book
         percent_format = workbook.add_format({'num_format': '#,##0.00%'})
