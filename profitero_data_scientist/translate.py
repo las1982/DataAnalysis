@@ -87,5 +87,5 @@ class PrepareData:
 
 process = PrepareData()
 # process.make_data()
-process.translate_any(File.review, File.review_en, Field.review, Field.review_en)
-# process.translate_any(File.product, File.product_en, Field.product_name, Field.product_name_en)
+# process.translate_any(File.review, File.review_en, Field.review, Field.review_en)
+process.translate_any(File.product, File.product_en, Field.product_name, Field.product_name_en)
