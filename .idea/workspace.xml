@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a49c0c0c-2363-407a-8a4c-22cdc479882c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/profitero_data_scientist/ModelTranslated.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/profitero_data_scientist/Copy (1) product_en.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/profitero_data_scientist/Copy (1) review_en.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/profitero_data_scientist/Enums.py" afterPath="$PROJECT_DIR$/profitero_data_scientist/utils/Enums.py" />
-      <change beforePath="$PROJECT_DIR$/profitero_data_scientist/data.py" afterPath="$PROJECT_DIR$/profitero_data_scientist/ModelStanfordSegmenter.py" />
-      <change beforePath="$PROJECT_DIR$/profitero_data_scientist/deleteMe.py" afterPath="$PROJECT_DIR$/profitero_data_scientist/utils/deleteMe.py" />
-      <change beforePath="$PROJECT_DIR$/profitero_data_scientist/product_en.csv" afterPath="$PROJECT_DIR$/profitero_data_scientist/product_en.csv" />
-      <change beforePath="$PROJECT_DIR$/profitero_data_scientist/review_en.csv" afterPath="$PROJECT_DIR$/profitero_data_scientist/review_en.csv" />
-      <change beforePath="$PROJECT_DIR$/profitero_data_scientist/translate.py" afterPath="$PROJECT_DIR$/profitero_data_scientist/utils/Translator.py" />
-      <change beforePath="$PROJECT_DIR$/wkf/Data.py" afterPath="$PROJECT_DIR$/wkf/Data.py" />
+      <change beforePath="$PROJECT_DIR$/profitero_data_scientist/ModelTranslated.py" afterPath="$PROJECT_DIR$/profitero_data_scientist/ModelTranslated.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,8 +30,8 @@
       <file leaf-file-name="ModelTranslated.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/profitero_data_scientist/ModelTranslated.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+            <state relative-caret-position="186">
+              <caret line="70" column="11" lean-forward="true" selection-start-line="70" selection-start-column="11" selection-end-line="70" selection-end-column="11" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -690,7 +681,14 @@
       <option name="project" value="LOCAL" />
       <updated>1519211832539</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="just commit">
+      <created>1519358267288</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1519358267288</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -716,7 +714,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21676892" sideWeight="0.506937" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843792" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36363637" sideWeight="0.49306297" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36363637" sideWeight="0.49306297" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24866596" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3265086" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26898327" sideWeight="0.5068226" order="2" side_tool="true" content_ui="tabs" />
@@ -1210,8 +1208,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/profitero_data_scientist/ModelTranslated.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+        <state relative-caret-position="186">
+          <caret line="70" column="11" lean-forward="true" selection-start-line="70" selection-start-column="11" selection-end-line="70" selection-end-column="11" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>

@@ -4,7 +4,7 @@ from sklearn.model_selection import train_test_split
 from matplotlib import cm
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
-from sklearn.neighbors import KNeighborsClassifier
+from sklearn.neighbors import KNeighborsClassifier, NearestNeighbors
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from sklearn.linear_model import SGDClassifier
 from nltk.tokenize.stanford_segmenter import StanfordSegmenter
@@ -36,6 +36,7 @@ df = df[[
     Field.product_name_en,
     Field.stars
 ]]
+df = df.sample(frac=0.5, random_state=10)
 
 # print(df[Field.stars].describe())
 # print(df.groupby(Field.stars).agg({Field.review: 'count'}))
@@ -58,12 +59,17 @@ print(features)
 
 print(X_train_vectorized.shape)
 print(X_test_vectorized.shape)
-# sys.exit(0)
 
 # model = SGDClassifier(loss='hinge', penalty='l2', alpha=0.001, max_iter=5, random_state=42, n_jobs=-1)
-model = KNeighborsClassifier(n_jobs=-1)
+# model = KNeighborsClassifier(n_neighbors=5, weights='distance', algorithm='kd_tree', n_jobs=-1)
+model = NearestNeighbors(n_neighbors=1, n_jobs=-1)
 print(y_train.shape)
 model.fit(X_train_vectorized, y_train[Field.stars])
+print(model.kneighbors(X_test_vectorized, return_distance=False))
+print(len(model.kneighbors(X_test_vectorized, return_distance=False)))
+
+sys.exit(0)
+
 predictions = model.predict(X_test_vectorized)
 print(predictions.shape)
 # print(f1_score(y_test[Field.stars], predictions, average='binary'))
