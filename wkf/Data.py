@@ -42,7 +42,7 @@ class Data:
     def __get_inp_outp_cols_from_meta(self):
         with open(self.meta_data_csv, 'rU') as fin:
             csvin = csv.reader(fin)
-            headers = csvin.next()
+            headers = next(csvin)
             for row in csvin:
                 if row[headers.index('country')] == self.country \
                         and re.sub('[^A-Z0-9]', '_', row[headers.index('item_category')].upper()) == self.category \
@@ -62,12 +62,12 @@ class Data:
     def __get_cols_from_test_set(self):
         with open(self.test_set_csv, 'rU') as fin:
             csvin = csv.reader(fin)
-            self.cols_in_test_set = set(map((lambda x: re.sub('[^0-9a-zA-Z]', '_', x).lower()), csvin.next()))
+            self.cols_in_test_set = set(map((lambda x: re.sub('[^0-9a-zA-Z]', '_', x).lower()), next(csvin)))
 
     def __get_cols_from_train_set(self):
         with open(self.train_set_csv, 'rU') as fin:
             csvin = csv.reader(fin)
-            self.cols_in_train_set = set(map((lambda x: re.sub('[^0-9a-zA-Z]', '_', x).lower()), csvin.next()))
+            self.cols_in_train_set = set(map((lambda x: re.sub('[^0-9a-zA-Z]', '_', x).lower()), next(csvin)))
 
     def get_data_frame_from_csv(self, data_set_type):
         print('getting', data_set_type, 'data from csv...')
