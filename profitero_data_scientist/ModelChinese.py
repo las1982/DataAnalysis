@@ -1,6 +1,8 @@
 import pickle
+from scipy import sparse
 
 import pandas as pd
+import numpy as np
 from sklearn.metrics import f1_score, precision_score, recall_score, classification_report
 from sklearn.model_selection import train_test_split
 from matplotlib import cm
@@ -42,6 +44,7 @@ df = df[[
     Field.product_name_en,
     Field.stars
 ]]
+
 # df = df.sample(frac=0.01, random_state=10)
 
 
@@ -79,19 +82,27 @@ print(X_train.shape, X_test.shape, y_train.shape, y_test.shape)
 # vect = CountVectorizer(min_df=3, ngram_range=(3, 4)).fit(X_train[predictor])
 vect_review = CountVectorizer(ngram_range=(1, 5)).fit(X_train[Field.review_tokenized])
 vect_product = CountVectorizer(ngram_range=(1, 3)).fit(X_train[Field.product_name_tokenized])
+
+
 # vect = TfidfVectorizer(min_df=5).fit(X_train[predictor])
 
 
-X_train_vectorized = pd.DataFrame(vect_review.transform(X_train[Field.review_tokenized]).toarray())
-X_train_vectorized = X_train_vectorized.merge(
-    pd.DataFrame(vect_product.transform(X_train[Field.product_name_tokenized]).toarray()), left_index=True,
-    right_index=True, how='left')
+def sprs_matr_to_df(matr):
+    matr_to_df = pd.DataFrame()
+    for i in range(matr.shape[0]):
+        matr_to_df = matr_to_df.append(pd.DataFrame(matr[i, :].toarray()))
+    matr_to_df.reset_index(inplace=True)
+    return matr_to_df
+
+
+X_train_vectorized = sprs_matr_to_df(vect_review.transform(X_train[Field.review_tokenized]))
+tmp_df = sprs_matr_to_df(vect_product.transform(X_train[Field.product_name_tokenized]))
+X_train_vectorized = X_train_vectorized.merge(tmp_df, left_index=True, right_index=True, how='left')
 X_train_vectorized[Field.created_at_day_of_week] = X_train[Field.created_at_day_of_week].values
 
-X_test_vectorized = pd.DataFrame(vect_review.transform(X_test[Field.review_tokenized]).toarray())
-X_test_vectorized = X_test_vectorized.merge(
-    pd.DataFrame(vect_product.transform(X_test[Field.product_name_tokenized]).toarray()), left_index=True,
-    right_index=True, how='left')
+X_test_vectorized = sprs_matr_to_df(vect_review.transform(X_test[Field.review_tokenized]))
+tmp_df = sprs_matr_to_df(vect_product.transform(X_test[Field.product_name_tokenized]))
+X_test_vectorized = X_test_vectorized.merge(tmp_df, left_index=True, right_index=True, how='left')
 X_test_vectorized[Field.created_at_day_of_week] = X_test[Field.created_at_day_of_week].values
 
 # X_test_vectorized = vect_review.transform(X_test[Field.review_tokenized])
