@@ -1,32 +1,27 @@
-class Field:
-    review_id = 'review_id'
-    review_di_unique = 'review_di_unique'
-    review = 'review'
-    review_tokenized = 'review_tokenized'
-    review_en = 'review_en'
-    created_at = 'created_at'
-    created_at_day_of_week = 'created_at_day_of_week'
-    product_id = 'product_id'
-    product_id_unique = 'product_id_unique'
-    product_name = 'product_name'
-    product_name_tokenized = 'product_name_tokenized'
-    product_name_en = 'product_name_en'
-    product_category = 'product_category'
-    stars = 'stars'
-
-
 class File:
     working_dir = '/home/alex/work/projects/DataAnalysis/profitero_data_scientist'
     data_dir = '/'.join([working_dir, 'data'])
     models_dir = '/'.join([data_dir, 'models'])
     vectorizers_dir = '/'.join([data_dir, 'vectorizers'])
     jd_reviews = '/'.join([data_dir, 'jd_reviews.csv'])
-    product = '/'.join([data_dir, 'product.csv'])
+    train = '/'.join([data_dir, 'train.csv'])
+    test = '/'.join([data_dir, 'test.csv'])
+    output = '/'.join([data_dir, 'output.csv'])
+    product_name = '/'.join([data_dir, 'product_name.csv'])
     review = '/'.join([data_dir, 'review.csv'])
-    product_en = '/'.join([data_dir, 'product_en.csv'])
-    review_en = '/'.join([data_dir, 'review_en.csv'])
     chinese_stop_words = '/'.join([data_dir, 'chinese_stop_words.txt'])
     english_stop_words = '/'.join([data_dir, 'english_stop_words.txt'])
+
+
+class Field:
+    original = 'original'
+    review_id = 'review_id'
+    review = 'review'
+    created_at = 'created_at'
+    product_id = 'product_id'
+    product_name = 'product_name'
+    product_category = 'product_category'
+    stars = 'stars'
 
 
 class Language:
@@ -36,14 +31,14 @@ class Language:
 
 class Vectorizers:
     ch_revi_1_5_ngram_count = 'ch_revi_1_5_ngram_count'
-    ch_prod_1_2_ngram_count = 'ch_prod_1_2_ngram_count'
+    ch_prod_1_3_ngram_count = 'ch_prod_1_3_ngram_count'
     en_revi_1_5_ngram_count = 'en_revi_1_5_ngram_count'
     en_prod_1_2_ngram_count = 'en_prod_1_2_ngram_count'
 
 
 class Models:
-    model_1_sgd = 'model_1_sgd'
-    model_2_mpl = 'model_1_mpl'
+    model_ch = 'model_ch'
+    model_en = 'model_en'
 
 
 class Category:

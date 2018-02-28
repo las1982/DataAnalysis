@@ -4,90 +4,70 @@ import pandas as pd
 import time
 
 
-class PrepareData:
-    jd_reviews_data = None
-    reviews_data = None
-    product_data = None
+class Translate:
 
-    def __init__(self):
-        # self.make_data()
-        self.start_time = time.time()
+    def __init__(self, src_file, dst_file, field, language='en'):
         self.translator = Translator()
+        self.start_time = time.time()
 
-    def make_data(self):
-        self.make_jd_reviews_data()
-        self.make_reviews_data()
-        self.make_product_data()
-        self.write_data_to_csv_files(self.reviews_data, File.review)
-        self.write_data_to_csv_files(self.product_data, File.product)
+        self.src_file = src_file
+        self.dst_file = dst_file
+        self.field = field
+        self.language = language
+        self.src_texts = None
+        self.processed_texts = None
+        self.dst_df = None
 
-    def make_jd_reviews_data(self):
-        self.jd_reviews_data = pd.read_table(File.jd_reviews, encoding='utf-8', quotechar='"', sep=',', dtype='str',
-                                             index_col=0)
+        self.load()
+        self.prepare_texts_to_translate()
+        self.translate()
 
-    def make_reviews_data(self):
-        self.reviews_data = pd.DataFrame(self.jd_reviews_data[[Field.review]])
-        self.reviews_data.dropna(inplace=True)
-        self.reviews_data.drop_duplicates(inplace=True)
-        self.reviews_data.reset_index(drop=True, inplace=True)
-
-    def make_product_data(self):
-        self.product_data = pd.DataFrame(self.jd_reviews_data[[Field.product_id, Field.product_name]])
-        # self.product_data.set_index(Field.product_id, inplace=True)
-        self.product_data.dropna(inplace=True)
-        self.product_data.drop_duplicates(inplace=True)
-        self.product_data.reset_index(drop=True, inplace=True)
-
-    def write_data_to_csv_files(self, data, file):
-        data.to_csv(file, encoding='utf-8', index=True, quotechar='"', sep=',')
-
-    def translate_any(self, base_file, trans_file, field_to_trans, field_translated):
-        base_df = pd.read_table(base_file, encoding='utf-8', quotechar='"', sep=',', dtype='str', index_col=0)
-
+    def load(self):
         try:
-            trans_df = pd.read_table(trans_file, encoding='utf-8', quotechar='"', sep=',', dtype='str', index_col=0)
+            self.dst_df = pd.read_table(self.dst_file, encoding='utf-8', quotechar='"', sep=',', dtype='str',
+                                        index_col=0)
         except:
-            trans_df = pd.DataFrame(base_df)
-            trans_df[Field.product_name_en] = None
-            trans_df.dropna(inplace=True)
-            print('no existing file', File.product_en)
+            self.dst_df = pd.DataFrame(columns=[self.field])
+            self.save()
 
-        indexes_to_skip = trans_df.index
+    def save(self):
+        self.dst_df.sort_index(inplace=True)
+        self.dst_df.to_csv(self.dst_file, encoding='utf-8', index=True, quotechar='"', sep=',')
+        print('saved ', self.dst_df.shape[0], 'of', self.docs_to_translate)
 
-        for i in base_df.index:
-            if i in indexes_to_skip:
-                continue
-            try:
-                text_ch = base_df.loc[i, field_to_trans]
-                text_en = self.translate(text_ch)
-                for field in base_df.columns.values:
-                    trans_df.loc[i, field] = base_df.loc[i, field]
-                trans_df.loc[i, field_translated] = text_en
-                print(i, 'of', len(base_df.index))
-                if i % 100 == 1:
-                    trans_df.sort_index(inplace=True)
-                    self.write_data_to_csv_files(trans_df, trans_file)
-                    print('saved ', i + 1, 'of', len(base_df.index))
-            except:
-                print('error occured')
-                trans_df.sort_index(inplace=True)
-                self.write_data_to_csv_files(trans_df, trans_file)
-                print('saved ', i + 1, 'of', len(base_df.index))
+    def prepare_texts_to_translate(self):
+        self.src_texts = pd.read_table(self.src_file, encoding='utf-8', quotechar='"', sep=',', dtype='str',
+                                       usecols=[self.field])
+        self.src_texts = self.src_texts[self.field]
+        self.src_texts.dropna(inplace=True)
+        self.src_texts = self.src_texts.apply(lambda text: text.strip())
+        self.src_texts.drop_duplicates(inplace=True)
+        self.docs_to_translate = self.src_texts.size
+        self.src_texts = self.src_texts.tolist()
+        self.src_texts = sorted(list(set(self.src_texts) - set(self.dst_df.index.values.tolist())))
 
-        self.write_data_to_csv_files(trans_df, trans_file)
-        print('saved ', i + 1, 'of', len(base_df.index))
+    def translate(self):
+        cnt = 0
+        print('translating', self.field)
+        for src_text in self.src_texts:
+            self.dst_df.loc[src_text, self.field] = self.translate_text(src_text)
+            self.save()
+            cnt += 1
+        if cnt == 0:
+            print('nothing to translate for', self.field)
+        else:
+            print('translated for', self.field, cnt, 'doc')
 
-    def translate(self, text):
-        if time.time() - self.start_time >= 30 * 60:
-            print('waiting and creating new translator')
-            time.sleep(1 * 60)
+    def translate_text(self, text):
+        wait_after = 30 * 60
+        waiting_time = 1 * 60
+        if time.time() - self.start_time >= wait_after:
+            print('waiting', waiting_time, 'sec and creating new translator')
+            time.sleep(waiting_time)
             self.start_time = time.time()
             self.translator = Translator()
-        # print('working translator:', self.translator)
-        return self.translator.translate(text, dest='en').text
+        return self.translator.translate(text, dest=self.language).text
 
 
-process = PrepareData()
-# process.make_data()
-process.translate_any(File.review, File.review_en, Field.review, Field.review_en)
-# process.translate_any(File.product, File.product_en, Field.product_name, Field.product_name_en)
+# Translate(File.jd_reviews, File.product_name, Field.product_name)
+# Translate(File.jd_reviews, File.review, Field.review)
