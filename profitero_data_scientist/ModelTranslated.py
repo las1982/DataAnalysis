@@ -13,8 +13,8 @@ import os
 import sys
 
 # df = pd.read_table('jd_reviews.csv', encoding='utf-8', quotechar='"', sep=',', dtype='str', na_values=["nan"], keep_default_na=False)
-from profitero_data_scientist.utils.Enums import Field
-from profitero_data_scientist.utils.Enums import File
+from profitero_data_scientist.utils.Constants import Field
+from profitero_data_scientist.utils.Constants import File
 
 df_jd_reviews = pd.read_table(File.jd_reviews, encoding='utf-8', quotechar='"', sep=',', dtype='str')
 df_jd_reviews.dropna(inplace=True)

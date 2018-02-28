@@ -1,5 +1,5 @@
 from googletrans import Translator
-from profitero_data_scientist.utils.Enums import *
+from profitero_data_scientist.utils.Constants import *
 import pandas as pd
 import time
 

@@ -24,8 +24,8 @@ import sys
 from datetime import datetime
 
 # df = pd.read_table('jd_reviews.csv', encoding='utf-8', quotechar='"', sep=',', dtype='str', na_values=["nan"], keep_default_na=False)
-from profitero_data_scientist.utils.Enums import Field
-from profitero_data_scientist.utils.Enums import File
+from profitero_data_scientist.utils.Constants import Field
+from profitero_data_scientist.utils.Constants import File
 import jieba
 import codecs
 
@@ -49,7 +49,7 @@ df = df[[
     Field.product_name_en,
     Field.stars
 ]]
-df = df.sample(frac=0.01, random_state=10)
+# df = df.sample(frac=0.01, random_state=10)
 
 
 def tokenize_and_delete_stop_words(old_text, stopwords):

@@ -19,8 +19,8 @@ import sys
 from datetime import datetime
 
 # df = pd.read_table('jd_reviews.csv', encoding='utf-8', quotechar='"', sep=',', dtype='str', na_values=["nan"], keep_default_na=False)
-from profitero_data_scientist.utils.Enums import Field
-from profitero_data_scientist.utils.Enums import File
+from profitero_data_scientist.utils.Constants import Field
+from profitero_data_scientist.utils.Constants import File
 import jieba
 import codecs
 
@@ -57,7 +57,7 @@ def tokenize_and_delete_stop_words(old_text, stopwords):
 
 
 stopwords = [line.rstrip() for line in
-             codecs.open('/home/alex/work/projects/DataAnalysis/profitero_data_scientist/chinese_stop_words.txt',
+             codecs.open(File.chinese_stop_words,
                          "r", encoding="utf-8")]
 
 df[Field.created_at_day_of_week] = df[Field.created_at].apply(
@@ -80,8 +80,10 @@ print(X_train.shape, X_test.shape, y_train.shape, y_test.shape)
 
 # vect = CountVectorizer().fit(X_train[Field.review_en])
 # vect = CountVectorizer(min_df=3, ngram_range=(3, 4)).fit(X_train[predictor])
-vect_review = CountVectorizer(ngram_range=(1, 5)).fit(X_train[Field.review_tokenized])
-vect_product = CountVectorizer(ngram_range=(1, 3)).fit(X_train[Field.product_name_tokenized])
+# vect_review = CountVectorizer(ngram_range=(2, 3)).fit(X_train[Field.review_tokenized])
+# vect_product = CountVectorizer(ngram_range=(2, 3)).fit(X_train[Field.product_name_tokenized])
+vect_review = CountVectorizer().fit(X_train[Field.review_tokenized])
+vect_product = CountVectorizer().fit(X_train[Field.product_name_tokenized])
 
 
 # vect = TfidfVectorizer(min_df=5).fit(X_train[predictor])
@@ -108,7 +110,6 @@ X_test_vectorized[Field.created_at_day_of_week] = X_test[Field.created_at_day_of
 # X_test_vectorized = vect_review.transform(X_test[Field.review_tokenized])
 # X_test_vectorized = vect_product.transform(X_test[Field.product_name_tokenized])
 # features = vect_review.get_feature_names()
-# print(features)
 
 print(X_train_vectorized.shape)
 print(X_test_vectorized.shape)
