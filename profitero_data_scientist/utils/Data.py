@@ -20,12 +20,12 @@ class Data:
     def get_translated_df(self):
         df = self.get_original_df()
 
-        Translator.Translate(File.jd_reviews, File.review, Field.review)
+        Translator.Translate(self.data_file_csv, File.review, Field.review)
         df_review = pd.read_table(File.review, encoding='utf-8', quotechar='"', sep=',', dtype='str', index_col=0)
         df[Field.review] = df[Field.review].apply(
             lambda text: self.translate(text, df_review, Field.review))
 
-        Translator.Translate(File.jd_reviews, File.product_name, Field.product_name)
+        Translator.Translate(self.data_file_csv, File.product_name, Field.product_name)
         df_product = pd.read_table(File.product_name, encoding='utf-8', quotechar='"', sep=',', dtype='str',
                                    index_col=0)
         df[Field.product_name] = df[Field.product_name].apply(

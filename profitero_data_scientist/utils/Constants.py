@@ -37,8 +37,10 @@ class Vectorizers:
 
 
 class Models:
-    model_ch = 'model_ch'
-    model_en = 'model_en'
+    model_ch_1 = 'model_ch_1'
+    model_en_1 = 'model_en_1'
+    model_ch_2 = 'model_ch_2'
+    model_en_2 = 'model_en_2'
 
 
 class Category:
