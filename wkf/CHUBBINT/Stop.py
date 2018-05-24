@@ -1,0 +1,41 @@
+from wkf.CHUBBINT.Const import Category
+
+stop_ngrams = {
+    Category().HAND: [
+        "heard",
+        "backwards",
+        "well",
+        "playing",
+        "could",
+        "reaching",
+        "hockey",
+        "body",
+        "later",
+        "next",
+        "left wrist",
+        "home",
+        "lifted",
+        "felt sharp pain",
+        "wet",
+        "said",
+        "felt sharp",
+        "duty",
+        "parking lot",
+        "feel",
+        "lift",
+        "patient",
+        "hospital",
+        "left shoulder",
+        "heavy",
+        "strained",
+        "vehicle",
+        "neck",
+        "stepped",
+        "step",
+        "right foot",
+        "felt pain",
+        "leg",
+        "knee",
+        "shoulder"
+    ]
+}
